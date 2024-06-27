@@ -1,7 +1,6 @@
 import 'package:easy_container/easy_container.dart';
 import 'package:flutter/material.dart';
 import 'package:quran/quran.dart';
-import 'package:quran_tutorial/views/quran_page_view.dart';
 
 class SearchNumbersListView extends StatelessWidget {
   final List<int> pageNumbers;
